@@ -8,6 +8,6 @@
     "upload": "node scripts/upload-image.mjs"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=18"
   }
 }
