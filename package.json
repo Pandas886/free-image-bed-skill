@@ -1,0 +1,13 @@
+{
+  "name": "free-image-bed-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cross-platform CLI for uploading images to the dooo.ng public image bed.",
+  "scripts": {
+    "upload": "node scripts/upload-image.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
